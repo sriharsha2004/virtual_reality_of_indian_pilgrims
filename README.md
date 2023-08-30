@@ -1,1 +1,0 @@
-# virtual_reality_of_indian_pilgrims

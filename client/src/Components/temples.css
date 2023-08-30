@@ -1,0 +1,17 @@
+*{
+    margin: 10px;
+    margin-bottom: 10px;
+}
+body{
+    margin-bottom: 100px;
+}
+#img1,#img2,#img3,#img4,#img5,#img6{
+    justify-content: center;
+    height: 250px;
+    width: 600;
+    margin: auto;
+    text-align: center;
+}
+#t1,#t2,#t3,#t4,#t5,#t6{
+    text-align: center;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 10px;
+}
+#log{
+    position: absolute;
+    right: 20px;
+    display: inline-block;
+    /* background-color: white;
+    color: black; */
+    padding-top:0px ;
+    padding-bottom:0px ;
+
+}
+#reg{
+    position: absolute;
+    right: 140px;
+    display: inline-block;
+    /* background-color: white;
+    color: black; */
+}
+#Abot{
+    /* text-decoration: underline; */
+}
+#head{
+    font-size: large;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    line-height: 30px;
+}
+#write{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-style: italic;
+}
+#co{
+    color: black;
+    background-color: rgb(0, 195, 255);
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px ;
+}

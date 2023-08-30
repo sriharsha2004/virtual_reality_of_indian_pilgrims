@@ -1,0 +1,36 @@
+*{
+    margin: 10px;
+    /* max-width: 100px; */
+}
+#Exp{
+    display: flex;
+    /* display: inline-block; */
+    margin: 10px;
+}
+#a,#b,#c{
+    position:relative;
+     top: -10px;
+    left: -10px;
+}
+.parent{
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr)); */
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2rem;
+    margin-block: 2rem;
+    padding: 0 1rem;
+    justify-items: center;
+    align-items: center;
+}
+#s{
+    position: relative;
+    left: 60px;
+}
+#r{
+    position: relative;
+    left: 10px;
+}
+#he{
+    text-shadow:  2px 20px 10px solid black;
+    
+}
